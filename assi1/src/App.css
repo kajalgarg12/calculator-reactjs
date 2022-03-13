@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+   
+  }
+  div.App{
+      border: black solid 2px;
+      align-items: center;
+      text-align: center;
+      justify-items: center;
+      padding:100px 10px 10px;
+      height:20rem;
+      width: 20rem;
+      background-image: linear-gradient(to right,rgb(0, 162, 255), rgb(103, 91, 214),rgb(160, 160, 196));
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      color: darkorange;
+      border-radius: 20px;
+  }
+  div.buttons{
+      color:azure;
+  }
+  #button1{
+      
+      background-color: crimson;
+      margin: 20px;
+      padding: 2px;
+      width: 100px;
+      color: beige;
+      border-radius: 20px;
+
+  }
+  #button2{
+      background-color: cyan;
+      margin: 2px;
+      padding: 5px;
+      border-radius: 20px;
+  }
+  input{
+      border-radius: 20px;
+  }
+
+
+
+      
+  
+
